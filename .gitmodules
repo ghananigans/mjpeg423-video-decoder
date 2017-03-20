@@ -1,3 +1,6 @@
 [submodule "rtl"]
 	path = rtl
 	url = https://github.com/ghanan94/ece423.git
+[submodule "software"]
+	path = software
+	url = https://github.com/ghanan94/ece423-nios-II.git
