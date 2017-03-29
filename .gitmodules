@@ -1,6 +1,8 @@
 [submodule "rtl"]
 	path = rtl
-	url = https://github.com/ghanan94/ece423.git
+	url = https://github.com/ghanan94/mjpeg423-video-decoder-rtl.git
+	branch = master
 [submodule "software"]
 	path = software
-	url = https://github.com/ghanan94/ece423-nios-II.git
+	url = https://github.com/ghanan94/mjpeg423-video-decoder-software.git
+	branch = master
